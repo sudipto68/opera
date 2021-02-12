@@ -1,0 +1,11 @@
+name = Opera
+description = Opera theme
+backdrop = 1.x
+type = theme
+version = 1.x
+
+; Add theme CSS files
+stylesheets[all][] = css/styles.css
+
+; Add theme JS files
+scripts[] = js/scripts.js
