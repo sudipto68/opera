@@ -17,7 +17,6 @@ for users who wish to sub-theme it.
 - Provide a SASS starter kit for sub-theming
 - Provide a straight CSS starter kit for sub-theming
 
-
 # Instructions
 
 One of the primary features of the Opera theme is the ability to build full-with layouts on the front page with 
@@ -25,4 +24,4 @@ custom background colors and hero images.
 
 1) Be sure to use the Boxton layout
 2) Any blocks placed in content region of front page will automatically get assigned background colors based upon site color scheme
-3) Choose from pre-defined color schemes in theme layout (or use color module to define your own) [Not Yet Implemented]
+3) Choose from pre-defined color schemes in theme layout (or use color module to define your own)

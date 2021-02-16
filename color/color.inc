@@ -46,7 +46,7 @@ $info = array(
 
       ),
     ),
-    'goldfish' => array(
+    'bright' => array(
       'title' => t('Bright'),
       'colors' => array(
         'set1bg' => '#6e0e0a',
