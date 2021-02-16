@@ -24,4 +24,4 @@ custom background colors and hero images.
 
 1) Be sure to use the Boxton layout
 2) Any blocks placed in content region of front page will automatically get assigned background colors based upon site color scheme
-3) Choose from pre-defined color schemes in theme layout (or use color module to define your own)
+3) Choose from pre-defined color schemes in theme settings (or use color module to define your own)
