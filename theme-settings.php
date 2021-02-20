@@ -19,6 +19,7 @@ if (module_exists('color')) {
   $fields = array(
     'set1bg',
     'set1text',
+    'set1links',
   );
   foreach ($fields as $field) {
     $form['set_one'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
@@ -33,6 +34,7 @@ if (module_exists('color')) {
   $fields = array(
     'set2bg',
     'set2text',
+    'set2links',
   );
   foreach ($fields as $field) {
     $form['set_two'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
@@ -48,6 +50,7 @@ if (module_exists('color')) {
   $fields = array(
     'set3bg',
     'set3text',
+    'set3links',
   );
   foreach ($fields as $field) {
     $form['set_three'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
@@ -63,6 +66,7 @@ if (module_exists('color')) {
   $fields = array(
     'set4bg',
     'set4text',
+    'set4links',
   );
   foreach ($fields as $field) {
     $form['set_four'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
@@ -75,8 +79,9 @@ if (module_exists('color')) {
     '#description' => 'Blocks 4,7,10,... of content region.',
   );
   $fields = array(
-    'set4bg',
-    'set4text',
+    'set5bg',
+    'set5text',
+    'set5links',
   );
   foreach ($fields as $field) {
     $form['set_five'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);

@@ -9,6 +9,11 @@
   color: var(--text-one);
 }
 
+.l-header a,
+.l-footer a {
+  color: var(--link-one);
+}
+
 .block-hero-no-image {
   background-color: var(--color-two);
   color: var(--text-two);
