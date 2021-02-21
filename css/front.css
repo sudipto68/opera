@@ -34,7 +34,7 @@
   color: var(--text-five);
 }
 
-.layout--boxton.layout-front .l-content div.block:last-of-type {
+.layout--boxton.layout.layout-front .l-content div.block:last-of-type {
   background-color: white;
   color: black;
 }
