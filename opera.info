@@ -41,7 +41,7 @@ stylesheets[all][] = css/opera-variables.css
 
 
 ; Add theme JS files
-scripts[] = js/scripts.js
+; scripts[] = js/scripts.js
 
 ; Configuration specifically for Utility CSS module. Classes added to this list
 ; will be available as autocomplete in the block UI where users are allowed to add classes.
