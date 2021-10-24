@@ -188,6 +188,7 @@ ul.action-links a:after {
 
 .block-hero-no-image {
   background: url(../images/texture.png) repeat center center;
+  background-size: cover;
 }
 
 .no-background-blend-mode .block-hero-no-image:before {
