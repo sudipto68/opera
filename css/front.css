@@ -10,6 +10,10 @@
   align-items: center;
 }
 
+/* 
+ * Background and text color in blocks
+ */
+
 .front .l-content div.block:nth-of-type(1) {
   background-color: white;
   color: black;
@@ -31,29 +35,41 @@
   color: var(--text-five);
 }
 
-.front .l-content div.block:nth-of-type(1) a {
-  color: black;
-}
-
-.front .l-content div.block:nth-of-type(3n+2) a {
-  color: var(--text-three);
-}
-.front .l-content div.block:nth-of-type(3n+3) a {
-  color: var(--text-four);
-}
-.front .l-content div.block:nth-of-type(3n+4) a {
-  color: var(--text-five);
-}
-
 .front div.flexible-row .no-container div.block:last-of-type,
 .front .l-content div.block:last-of-type {
   background-color: white;
   color: black;
 }
 
-.front .l-content div.block:last-of-type a {
-  color: inherit;
+/* 
+ * Color of links in blocks 
+ */
+
+.front .flexible-row .no-container div.block:nth-of-type(1) a,
+.front .l-content div.block:nth-of-type(1) a {
+  color: var(--menu-one);
 }
+.front .flexible-row .no-container div.block:nth-of-type(3n+2) a,
+.front .l-content div.block:nth-of-type(3n+2) a {
+  color: var(--link-three);
+}
+.front .flexible-row .no-container div.block:nth-of-type(3n+3) a,
+.front .l-content div.block:nth-of-type(3n+3) a {
+  color: var(--link-four);
+}
+.front .flexible-row .no-container div.block:nth-of-type(3n+4) a,
+.front .l-content div.block:nth-of-type(3n+4) a {
+  color: var(--link-five);
+}
+
+.front .flexible-row .no-container div.block:last-of-type a,
+.front .l-content div.block:last-of-type a {
+  color: var(--menu-one);
+}
+
+/* 
+ * Other measurements 
+ */
 
 .front div.flexible-row .no-container div.block p:last-of-type,
 .front .l-content div.block p:last-of-type {
