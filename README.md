@@ -5,7 +5,7 @@ by John Seymour Anderson of Triangle Park Creative. Certain elements of that des
 over into this contrib theme. Most importantly, a stacked design of full width panels with 
 background colors.
 
-# Status
+## Status
 
 We are almost ready to release a beta version for testing. We would love for folks to test this 
 theme and report any bugs or issues that need attention. In the beta stage we may still make 
@@ -15,7 +15,7 @@ be able to upgrade without noticing some small changes on your site.
 Once we issue a stabile release, we will avoid any breaking changes within minor releases. At that
 stage all changes in minor releases will be backward compatible.  
 
-# Who is this theme for?
+## Who is this theme for?
 
 The primary audience of this theme are individuals and organizations interested in any of the 
 following:
@@ -29,18 +29,18 @@ following:
 
 ![A screenshot of a site with stacked full width blocks and hero images.](https://simplo.site/files/opera-opera.png)
 
-# Assumptions / Design or Theming Principles
+## Assumptions / Design or Theming Principles
 
 - Trying to use REM as consistently as possible (lots of work to do)
 - Minimize the need for ANY custom css, while leaving the possibily or 
   opportunity for users to create their own sub-theme if they choose. 
 
-# Recommended Modules
+## Recommended Modules
 
 - [Configurable Block Style](https://backdropcms.org/project/configurable_block_style)
 - [Utility CSS](https://backdropcms.org/project/utlility_css)
 
-# Goals
+## Goals
 
 - Instructions for sub-theming (future)
 - Compatible with color module (done)
@@ -48,7 +48,7 @@ following:
 - Provide a SASS starter kit for sub-theming (future)
 - Provide a straight CSS starter kit for sub-theming (future) 
 
-# Instructions
+## Instructions
 
 One of the primary features of the Opera theme is the ability to build a layout using full width blocks 
 with backgroud images and/or colors stacked one above the other. full-with layouts on the front page 
@@ -63,7 +63,7 @@ If you use the Boxton layout for your front page. The following will be true:
 2) Any blocks in the content region between the first and last, will cycle through a list of three colors schemes set in the themes settings.
 3) Any hero blocks will start out with min-height of 450px.
 
-# Features implemented so far
+## Features implemented so far
 
 Please, feel free to provide feedback on these features and/or the implementation.
 
@@ -78,7 +78,7 @@ Here is a 30 minute video discussion of several members of the Backdrop CMS comm
 - Install this module using the official Backdrop CMS instructions at
   https://backdropcms.org/guide/modules.
 
-# Credits
+## Credits
 
 Default hero image = Vienna State Opera, Jiuguang Wang
 https://www.flickr.com/photos/jiuguangw/5943433030
