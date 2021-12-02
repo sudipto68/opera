@@ -37,6 +37,8 @@ following:
 
 ## Recommended Modules
 
+Some specific modules that we think will improve your experience with this theme. 
+
 - [Configurable Block Style](https://backdropcms.org/project/configurable_block_style)
 - [Utility CSS](https://backdropcms.org/project/utlility_css)
 
