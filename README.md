@@ -73,6 +73,46 @@ Please, feel free to provide feedback on these features and/or the implementatio
 
 Here is a 30 minute video discussion of several members of the Backdrop CMS community talking about how to build a contrib theme like this one. https://youtu.be/BeEzXuwLxo8 
 
+## Utility CSS Classes
+
+Font Styles
+- color-inverse
+- font-size-xxxxlarge
+- font-size-xxxlarge
+- font-size-xxlarge
+- font-size-xlarge
+- font-size-large
+- font-size-medium
+- font-size-normal
+- font-size-small
+- font-size-xsmall
+- font-weight-bold
+- font-weight-normal
+- font-weight-light
+- font-style-italic
+- font-style-normal
+
+Background Colors
+- opera-bg1-black
+- opera-bg1-blue
+- opera-bg1-brown
+- opera-bg1-firebrick
+- opera-bg1-green
+- opera-bg1-indigo
+- opera-bg1-khaki
+- opera-bg2-lemonchiffon
+- opera-bg2-olive
+- opera-bg2-orange
+- opera-bg2-pink
+- opera-bg2-red
+- opera-bg2-sienna
+- opera-bg3-silver
+- opera-bg3-tan
+- opera-bg3-teal
+- opera-bg3-violet
+- opera-bg3-white
+- opera-bg3-yellow
+
 ## Installation
 
 - Install this module using the official Backdrop CMS instructions at
