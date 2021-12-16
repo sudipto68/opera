@@ -7,13 +7,13 @@ background colors.
 
 ## Status
 
-We are almost ready to release a beta version for testing. We would love for folks to test this 
-theme and report any bugs or issues that need attention. In the beta stage we may still make 
-change that could effect end users. If you use a beta version on a production site, you may not 
+We just released an alpha version of this theme. We would love for some folsk to test it out
+and provide feedback, file bug reports. In the alpha stage we may still make 
+changes that could effect end users. If you use a alpha version on a production site, you may not 
 be able to upgrade without noticing some small changes on your site. 
 
 Once we issue a stabile release, we will avoid any breaking changes within minor releases. At that
-stage all changes in minor releases will be backward compatible.  
+stage, all changes in minor releases will be backward compatible.  
 
 ## Who is this theme for?
 
