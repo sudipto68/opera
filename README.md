@@ -115,6 +115,11 @@ Background Colors
 - opera-bg3-white
 - opera-bg3-yellow
 
+Text alignment
+- text-align-center
+- text-align-right
+- text-align-left
+
 ## Installation
 
 - Install this module using the official Backdrop CMS instructions at
