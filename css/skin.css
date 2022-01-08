@@ -157,8 +157,6 @@ fieldset .fieldset-legend {
 @media (min-width: 34em) {
   .l-header-inner {
     min-height: 4rem;
-    padding-right: .9375rem;
-    padding-left: .9375rem;
   }
 }
 

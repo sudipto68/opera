@@ -4,6 +4,9 @@ description = Opera theme special for sites with stacked panels on front page.
 backdrop = 1.x
 version = 1.x
 
+
+settings[use_bootstrap] = 0
+
 ; Add theme CSS files - from Tatsu (with edits)
 stylesheets[all][] = css/base.css
 stylesheets[all][] = css/layout.css
