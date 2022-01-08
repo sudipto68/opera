@@ -25,6 +25,20 @@ if (module_exists('color')) {
     $form['set_one'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
   }
 
+  // Color Primary Navigation
+  $form['set_navbar'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Navbar'),
+    '#collapsible' => TRUE,
+  );
+  $fields = array(
+    'navbarbg',
+    'navbarlinks',
+  );
+  foreach ($fields as $field) {
+    $form['set_navbar'][$field] = color_get_color_element($form['theme']['#value'], $field, $form);
+  }
+
   // Color Set Two
   $form['set_two'] = array(
     '#type' => 'fieldset',
