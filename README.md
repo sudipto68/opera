@@ -7,8 +7,8 @@ background colors.
 
 ## Status
 
-We just released an alpha version of this theme. We would love for some folsk to test it out
-and provide feedback, file bug reports. In the alpha stage we may still make 
+We just released an alpha version of this theme. We would love for some folks to test it out
+and provide feedback and file bug reports. In the alpha stage we may still make 
 changes that could effect end users. If you use a alpha version on a production site, you may not 
 be able to upgrade without noticing some small changes on your site. 
 
