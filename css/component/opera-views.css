@@ -29,6 +29,19 @@
   display: block;
 }
 
+.views-exposed-form .views-exposed-widget {
+  padding: 0;
+}
+
+/* Changing color to color as background on breadcrumbs 
+ * for grids to compensate for padding.
+ */
+.views-view-grid {
+  background: #dee2ea;
+}
+
+
+
 
 
 
