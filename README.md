@@ -5,19 +5,14 @@ by John Seymour Anderson of Triangle Park Creative. Certain elements of that des
 over into this contrib theme. Most importantly, a stacked design of full width panels with 
 background colors.
 
-## See it in action
+See Opera in action: https://themeswitcher.simplo.site/
 
-Try many Backdrop CMS themes - https://themeswitcher.simplo.site/
-
-These sites are all built with and using Opera out of the box 
-(although they may be using additional modules and configuration 
-for some effects).
+Here are some Simplo sites that are using Opera. None of these have been subthemed, but they are 
+using contributed modules and custom configuation to acheive some special effects.
 
 - https://simplo.site/
 - https://learn-backdrop.simplo.site/
 - http://simplo-market.simplo.site/
-
-
 
 ## Status
 
