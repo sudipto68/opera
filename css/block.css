@@ -23,3 +23,13 @@ h2.block-title {
 .l-sidebar .block-content {
 	padding: 0 1rem;
 }
+
+.block--inner-wrapper {
+	padding-left:  0;
+	padding-right:  0;
+}
+
+/*.front div.flexible-row div.block, */
+.front .l-wrapper-inner .block {
+  padding: clamp(10px, 5vw, 70px) 0;
+}
