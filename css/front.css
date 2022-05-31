@@ -101,3 +101,11 @@
 .front .l-wrapper .block-title {
   text-align: center;
 }
+
+.l-top .view {
+  padding-top: 2rem;
+}
+
+.block-views-promoted-block {
+  margin-top:  -2rem;
+}
