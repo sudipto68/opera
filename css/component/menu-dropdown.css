@@ -13,4 +13,7 @@
   .block-content .menu-dropdown a span.sub-arrow {
     right: 10px;
   }
+  .menu-dropdown ul a, .menu-dropdown ul a:hover, .menu-dropdown ul a:focus, .menu-dropdown ul a:active, .menu-dropdown ul a.highlighted {
+    padding: 1rem 1.25rem;
+  }
 }
