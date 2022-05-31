@@ -345,10 +345,6 @@ fieldset .fieldset-legend {
     background-color: #114a75;
   }
 
-  .menu-dropdown a span.sub-arrow {
-    border-top-color: #fffffe;
-  }
-
   .menu-dropdown ul {
     background-color: var(--color-navbar);
     border:  none;
