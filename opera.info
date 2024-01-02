@@ -42,9 +42,6 @@ stylesheets[all][] = css/front.css
 stylesheets[all][] = css/opera-variables.css
 stylesheets[all][] = css/utility.css
 
-; Remove unwanted core CSS
-stylesheets[all][] = system.theme.css
-
 ; Add theme JS files
 scripts[] = js/scripts.js
 

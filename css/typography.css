@@ -10,6 +10,10 @@
   --opera-font: 'Merriweather', Helvetica, Arial, sans-serif;
 }
 
+/*html {
+  font-size: 16px;
+}*/
+
 body {
   font-family: var(--opera-san-font);
     /**
